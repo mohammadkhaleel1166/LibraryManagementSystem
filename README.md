@@ -1,22 +1,48 @@
-Library Management System
-This is a simple Java-based Library Management System that allows users to manage books and patrons efficiently.
+# Library Management System
 
-Features
-Add, remove, and display available books.
-Add, remove, and display patrons.
-Borrow and return books.
+**This is a simple Java-based Library Management System** that allows users to manage books and patrons efficiently.
 
-How to Run
-Prerequisites
-Java Development Kit (JDK) installed on your machine.
-Steps to Compile and Run
-Clone the repository:
-git clone https://github.com/your-username/library-management-system.git
-Navigate to the project directory:
-Compile the Java files:
+## Features
 
-Run the Library Management System:
+- **Add, remove, and display available books.**
+- **Add, remove, and display patrons.**
+- **Borrow and return books.**
 
-Usage
-Upon running the program, follow the on-screen instructions to perform various operations such as adding books, adding patrons, borrowing books, etc.
-Choose options by entering the respective number as indicated in the menu.
+## How to Run
+
+### Prerequisites
+
+- **Java Development Kit (JDK) installed on your machine.**
+
+### Steps to Compile and Run
+
+1. **Clone the repository:**
+
+    ```
+    git clone https://github.com/your-username/library-management-system.git
+    ```
+
+2. **Navigate to the project directory:**
+
+    ```
+    cd LibraryManagementSystem
+    ```
+
+3. **Compile the Java files:**
+
+    ```
+    javac *.java
+    ```
+
+4. **Run the Library Management System:**
+
+    ```
+    java LibraryManagementSystem
+    ```
+
+## Usage
+
+- **Upon running the program, follow the on-screen instructions** to perform various operations such as adding books, adding patrons, borrowing books, etc.
+- **Choose options by entering the respective number** as indicated in the menu.
+
+
