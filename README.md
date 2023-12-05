@@ -19,7 +19,7 @@
 1. **Clone the repository:**
 
     ```
-    git clone https://github.com/your-username/library-management-system.git
+    https://github.com/mohammadkhaleel1166/LibraryManagementSystem/tree/main
     ```
 
 2. **Navigate to the project directory:**
