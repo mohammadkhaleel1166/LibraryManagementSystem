@@ -1,6 +1,6 @@
 # Library Management System
 
-**This is a simple Java-based Library Management System** that allows users to manage books and patrons efficiently.
+**This is a Java-based Library Management System** that allows users to manage books and patrons efficiently.
 
 ## Features
 
