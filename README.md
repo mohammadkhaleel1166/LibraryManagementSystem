@@ -10,6 +10,9 @@
 
 ## How to Run
 
+Main method is in LibraryManagementSystem.java 
+run the LibraryManagementSystem file
+
 ### Prerequisites
 
 - **Java Development Kit (JDK) installed on your machine.**
